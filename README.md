@@ -1,7 +1,7 @@
 # webAPI-NET
 Ejemplo webAPI en .NET
 
-##Paso 1: Crear proyecto wepAPI y prueba inicial
+## Paso 1: Crear proyecto wepAPI y prueba inicial
 
 En la consola:
 ```
