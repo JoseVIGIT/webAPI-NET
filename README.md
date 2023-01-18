@@ -11,7 +11,6 @@ Creadas las carpetas siguientes:
 ```
 webapi
     /Controllers
-    /obj
     /Properties
     appsettings.Development.json
     appsettings.json
