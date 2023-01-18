@@ -11,7 +11,9 @@ Creadas las carpetas siguientes:
 ```
 webapi
     /Controllers
+        WeatherForecastController.cs
     /Properties
+        launchSettings.json
     appsettings.Development.json
     appsettings.json
     Program.cs
